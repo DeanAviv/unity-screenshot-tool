@@ -1,7 +1,7 @@
 # Screenshot Window Tool for Unity Editor
 
 **Description:**
-The Screenshot Window Tool for Unity Editor allows developers to easily capture screenshots within the Unity Editor environment. With this tool, you can capture screenshots of custom sizes or screen resolution.
+A Unity Editor Tool that allows to easily capture screenshots within the Unity Editor environment. With this tool, you can capture screenshots of custom sizes or screen resolution.
 
 **Features:**
 - Capture screenshots of custom sizes or screen resolution.
