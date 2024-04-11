@@ -34,9 +34,6 @@ A Unity Editor Tool that allows to easily capture screenshots within the Unity E
 **Contributing:**
 - Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests.
 
-**License:**
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 **Acknowledgements:**
 - Special thanks to [Unity Technologies](https://unity.com/) for providing the Unity Editor platform.
 
